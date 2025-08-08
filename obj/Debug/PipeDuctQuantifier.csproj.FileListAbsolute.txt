@@ -1,0 +1,6 @@
+C:\test\PipeDuctQuantifier\PipeDuctQuantifier\obj\Debug\PipeDuctQuantifier.csproj.AssemblyReference.cache
+C:\test\PipeDuctQuantifier\PipeDuctQuantifier\obj\Debug\PipeDuctQuantifier.csproj.CoreCompileInputs.cache
+C:\test\PipeDuctQuantifier\PipeDuctQuantifier\bin\Debug\PipeDuctQuantifier.dll
+C:\test\PipeDuctQuantifier\PipeDuctQuantifier\bin\Debug\PipeDuctQuantifier.pdb
+C:\test\PipeDuctQuantifier\PipeDuctQuantifier\obj\Debug\PipeDuctQuantifier.dll
+C:\test\PipeDuctQuantifier\PipeDuctQuantifier\obj\Debug\PipeDuctQuantifier.pdb
