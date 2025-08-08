@@ -14,7 +14,7 @@
 
    ```bash
    git clone https://github.com/KengoTanaka-BIM/PipeDuctQuantifier.git
-　　```
+　
    
 2. 必要なソフトウェアやツールをインストール
    このプロジェクトでは、Revit APIにアクセスするための開発ツールが必要です。
@@ -26,16 +26,16 @@
    Visual Studioを開き、プロジェクトを開いてビルドを行います。
 
 ## 使い方
-1.Revitを開く
+1.　Revitを開く
    Revitを起動します。
 
-2.PipeDuctQuantifierのアドインを読み込む
+2.　PipeDuctQuantifierのアドインを読み込む
   Revitで、PipeDuctQuantifierのアドインを読み込みます。
 
-3.配管やダクトの数量を抽出する
+3.　配管やダクトの数量を抽出する
   モデル内の配管やダクトを選択し、数量の抽出を実行します。
 
-4.結果をエクスポート
+4.　結果をエクスポート
   計算結果をCSVまたはExcel形式でエクスポートできます。
 
 ## ライセンス
