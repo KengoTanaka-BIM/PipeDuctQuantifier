@@ -77,10 +77,15 @@ Duct: 28.1
 
 田中 健悟
 
- BIMエンジニア。Revitアドイン開発を独学で習得。
+ BIMエンジニア。Revit APIによるアドイン開発を専門としています。
+ 
+ 設備分野の実務経験と多国籍チームのマネジメントを経て、建設業界のDX推進を目指しています。
+ 
+ 副業でBIM効率化ツールを開発中。開発依頼やコラボ歓迎です。
+
 
  Qiitaにて記事公開。
- https://qiita.com/KengoTanaka-BIM/items/4678d144b4deba564bfc
+ [https://qiita.com/KengoTanaka-BIM/items/4678d144b4deba564bfc](https://qiita.com/KengoTanaka-BIM/items/57fde6fe7b403f374c3e)
 
 ---
 
