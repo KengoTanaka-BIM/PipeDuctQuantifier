@@ -2,6 +2,19 @@
 
 # PipeDuctQuantifier(Revit2026)
 
+## バージョン履歴
+
+### v1.0.1 （2025-08-15）
+- Revit 2026 に対応
+- TaskDialog による簡易 OK / Cancel ダイアログを導入
+- Pipe/Duct 集計処理の安定性を改善
+- Excel 出力形式を整理
+
+### v1.0.0 （初期リリース）
+- Pipe/Duct の長さ、材質、系統名を Excel に出力
+- Pipe は BuiltInParameter、Duct は Material パラメータを参照
+
+
  BIMモデルから配管やダクトの長さを自動で抽出するアドイン  
 - 配管やダクトの長さ(m)を自動で計算 
 - 結果をCSVでエクスポート
