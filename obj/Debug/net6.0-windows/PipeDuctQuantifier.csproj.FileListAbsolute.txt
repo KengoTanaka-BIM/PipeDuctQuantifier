@@ -1,0 +1,6 @@
+C:\test\PipeDuctQuantifier\PipeDuctQuantifier\obj\Debug\net6.0-windows\PipeDuctQuantifier.csproj.AssemblyReference.cache
+C:\test\PipeDuctQuantifier\PipeDuctQuantifier\obj\Debug\net6.0-windows\PipeDuctQuantifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\PipeDuctQuantifier\PipeDuctQuantifier\obj\Debug\net6.0-windows\PipeDuctQuantifier.AssemblyInfoInputs.cache
+C:\test\PipeDuctQuantifier\PipeDuctQuantifier\obj\Debug\net6.0-windows\PipeDuctQuantifier.AssemblyInfo.cs
+C:\test\PipeDuctQuantifier\PipeDuctQuantifier\obj\Debug\net6.0-windows\PipeDuctQuantifier.csproj.CoreCompileInputs.cache
+C:\test\PipeDuctQuantifier\PipeDuctQuantifier\obj\Debug\net6.0-windows\PipeDuctQuantifier.sourcelink.json
